@@ -1,0 +1,19 @@
+{
+  "name": "classplus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "moment": "^2.29.1",
+    "mysql2": "^2.2.5",
+    "shortid": "^2.2.16",
+    "sequelize": "^6.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
